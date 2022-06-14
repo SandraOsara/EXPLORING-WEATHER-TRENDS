@@ -17,11 +17,17 @@ These was my result from the Analysis:
 
 <p align="center">
   <img src="https://github.com/SandraOsara/EXPLORING-WEATHER-TRENDS/blob/main/download.png" width=500px>
-  <img src="">
+  <img src="https://github.com/SandraOsara/EXPLORING-WEATHER-TRENDS/blob/main/download%20(1).png">
 </p>
-From the line chart above, The following Observation was made;
+
+#### From the line chart above, The following Observation was made;
 
 - My City(Lagos Nigeria), temperature is hotter on average as compared to the Global average moving temperature.
 - The difference between Lagos's temperature and that of the globe fluntuates between 17-18 degrees celsius.
 - From around 1860 to 1878, the average temperatures were a bit constant for both Lagos and World. The temperature for both then increaed around 1885 and the dropped around 1890.
 - From the year 1890 till date, The temperature kept getting hotter consistently for both Lagos and the globe at large.
+
+#### From the scatter plot, it is seen that they have a strong positive correlation with correlation coefficient of 0.89
+
+Note that due to the strong positive correletion between the average temperature in Lagos and the World, using a strong prediction linear model, the temperature of Lagos can be estimated when that of the world is given.
+
